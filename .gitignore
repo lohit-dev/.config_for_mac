@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+**/node_modules/
+# Raycast (install from App Store, extensions sync via Raycast)
+raycast/
+
+# Yarn (global cache, not config)
+yarn/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+.eggs/
+
+# Zsh
+.zcompdump*
+.zsh_history
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Secrets & local overrides
+# gh/hosts.yml
