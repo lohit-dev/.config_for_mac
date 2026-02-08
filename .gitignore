@@ -32,3 +32,5 @@ Thumbs.db
 
 # Secrets & local overrides
 # gh/hosts.yml
+
+github-copilot/apps.json
