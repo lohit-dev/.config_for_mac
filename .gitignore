@@ -34,3 +34,4 @@ Thumbs.db
 # gh/hosts.yml
 
 github-copilot/apps.json
+password-store/* 
