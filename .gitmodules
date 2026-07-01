@@ -6,3 +6,6 @@
 	path = password-store
 	url = "https://github.com/lohit-dev/Password-store.git"
 	branch = main
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/lohit-dev/.zsh.git
