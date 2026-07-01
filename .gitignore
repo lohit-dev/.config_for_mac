@@ -19,7 +19,12 @@ __pycache__/
 # Zsh
 .zcompdump*
 .zsh_history
+.zsh_sessions/
+zsh/.zsh_sessions/
 *.tmp
+
+# Foundry
+.foundry/
 
 # OS
 .DS_Store
