@@ -37,7 +37,7 @@ cd ~/.config
 | :--- | :--- |
 | **Shell** | Zsh, Zinit, Starship |
 | **Editor** | Neovim (NvChad) |
-| **Terminal** | Ghostty, Tmux, Zellij |
+| **Terminal** | Ghostty, Tmux |
 | **Runtimes** | Node (nvm), Rust, Python (uv), Go, Deno, Bun, Foundry |
 
 ## 🎨 Custom Commands

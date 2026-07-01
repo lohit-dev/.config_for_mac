@@ -94,7 +94,6 @@ CORE=(
     neovim              # Editor
     zsh                 # Shell (macOS ships zsh but brew keeps it current)
     tmux                # Terminal multiplexer
-    zellij              # Modern terminal multiplexer (Rust)
 )
 
 # ── Modern CLI replacements ──────────────────────────────────────
@@ -377,7 +376,7 @@ info "Installed tool quick-reference:"
 echo "    Editor:       nvim (NvChad)"
 echo "    Terminal:     Ghostty (Maple Mono NF, Gruvbox Dark Hard)"
 echo "    Shell:        zsh + Zinit + Starship + vim mode"
-echo "    Multiplexer:  tmux / zellij"
+echo "    Multiplexer:  tmux"
 echo "    Navigation:   zoxide (cd=z), eza (ls), fzf, fd, rg, bat"
 echo "    Git:          gh, lazygit (lg), gpush"
 echo "    Languages:    Node (nvm), Rust, Go, Deno, Bun, Python (uv)"
