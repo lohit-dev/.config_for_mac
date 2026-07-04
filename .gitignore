@@ -41,3 +41,5 @@ Thumbs.db
 github-copilot/apps.json
 password-store/* 
 tmux/plugins/
+github-copilot/auth.db-shm
+github-copilot/auth.db-wal
