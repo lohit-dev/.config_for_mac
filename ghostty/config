@@ -4,7 +4,7 @@ shell-integration = zsh
 shell-integration-features = sudo,title,no-cursor,ssh-terminfo
 term = xterm-ghostty
 # theme = Catppuccin Macchiato
-theme = Catppuccin Mocha
+theme = Gruvbox Dark Hard
 keybind = cmd+s>r=reload_config
 
 # Font configuration
@@ -19,16 +19,13 @@ background-blur=true
 mouse-hide-while-typing = true
 macos-non-native-fullscreen = false
 
-background-opacity = 0.89
+background-opacity = 0.85
 background-blur = 80
+# window padding
 window-padding-x = 10
-
-# Vertical padding
-# Options: Points
 window-padding-y = 10
 
 # Auto-balance padding
-# Options: Boolean
 window-padding-balance = true
-
+# for high refresh rates
 window-vsync = true
